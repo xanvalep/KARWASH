@@ -1,0 +1,19 @@
+#Mysql conexion
+spring.datasource.url=jdbc:mysql://localhost/test?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrival=true
+spring.datasource.username=root
+spring.datasource.password=root1234
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+#Fin Mysql conexion
+
+
+https://app.getpostman.com/join-team?invite_code=2ad8c1eaf1b2c66359ef157c9051dd2f
+
+
+#Mysql conexion
+spring.datasource.url=jdbc:mysql://localhost:3306/kardb?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrival=true
+spring.datasource.username=root
+spring.datasource.password=root1234
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+#Fin Mysql conexion
